@@ -1,0 +1,2 @@
+streamlit==1.47.1
+ibm-watson-machine-learning==1.0.391
