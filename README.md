@@ -52,6 +52,9 @@ faculty_profile_builder/
 ├── requirements.txt # Project dependencies
 └── README.md # Project documentation
 
+<img width="186" height="151" alt="image" src="https://github.com/user-attachments/assets/a4352804-f6cd-4d8a-963b-a97472a660c4" />
+
+
 
 ---
 
@@ -103,5 +106,6 @@ This system is a prototype and has limitations. It can be improved in the follow
 
 
  
+
 
 
