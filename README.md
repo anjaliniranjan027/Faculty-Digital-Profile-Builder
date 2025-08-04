@@ -77,13 +77,6 @@ faculty_profile_builder/
 
 ---
 
-## 📷 Sample Output
-
-![Sample Output](https://github.com/anjaliniranjan027/Faculty-Digital-Profile-Builder-RAG-Based-/assets/sample-output.png)  
-> Sample structured output from a sample CV.
-
----
-
 ## 🏁 Conclusion
 
 This project demonstrates a basic use-case of integrating LLMs with simple interfaces to solve real-world academic problems. It helps save time and improve accuracy in generating faculty records.
@@ -110,4 +103,5 @@ This system is a prototype and has limitations. It can be improved in the follow
 
 
  
+
 
